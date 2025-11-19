@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mangesh</h1>
-<h3 align="center">Backend Developer | System Design Enthusiast | Problem Solver</h3>
+<h3 align="center">Senior Engineering Manager | System Design Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -17,10 +17,10 @@
 - Java | JavaScript | TypeScript | SQL
 
 **Backend**
-- Node.js | Express.js | Spring Boot
+- Spring Boot
 
 **Databases**
-- MySQL | PostgreSQL | MongoDB | Redis | Elasticsearch
+- PostgreSQL | MongoDB | Redis | Elasticsearch
 
 **Cloud & Tools**
 - Docker | Kafka | Git | GitHub | Postman
@@ -62,5 +62,5 @@ Simple personal website showcasing skills & projects
 ---
 
 ### 📫 Connect with Me
-- 📧 **Your email here**
+- 📧 **mangeshbuddy676@gmail.com**
 - 🔗 LinkedIn: **Your LinkedIn link**
